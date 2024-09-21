@@ -1,0 +1,84 @@
+2
+What is a class in OOP?
+A blueprint for creating objects
+A function that performs a specific task
+A variable that holds data
+An operator used in calculations
+1
+2
+What is inheritance in OOP?
+A process where one class acquires properties and behaviors of another class
+A method to store multiple values
+A way to write cleaner code
+A type of function
+1
+2
+Which of the following is a valid C++ loop structure?
+while
+case
+struct
+enum
+1
+2
+What is polymorphism in OOP?
+The ability to create multiple classes
+The ability of a function to take on many forms
+The process of debugging a program
+The process of compiling code
+2
+2
+Which keyword is used to define a function in C++?
+function
+def
+func
+void
+4
+2
+What does the keyword 'public' signify in a class definition?
+The member is accessible only within the same class
+The member is accessible within the same package
+The member is accessible from any other code
+The member is a constant
+3
+2
+What is the main function in a C++ program?
+The entry point of the program
+The function where variables are declared
+The function where debugging occurs
+The function where memory is allocated
+1
+2
+Which operator is used to access members of a structure in C++?
+.
+*
+&
+/
+1
+2
+What is a destructor in C++?
+A function that is called when an object is created
+A function that is called when an object is destroyed
+A function that allocates memory
+A function that performs calculations
+2
+2
+What is the purpose of the 'new' keyword in C++?
+To declare a new variable
+To allocate memory dynamically
+To create a new function
+To start a new program
+2
+2
+What is PF?
+Programming Fundamental
+Physics Fundamental
+Bio
+Chemi
+1
+2
+What is PF?
+programming fundamental
+chem
+bio
+Pf
+1

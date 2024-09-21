@@ -1,0 +1,24 @@
+1 What symbol is used to end a statement in C++?
+1 ;
+1 What is the correct syntax to output "Hello, World!" in C++?
+1 cout << "Hello, World!";
+
+2 Which operator is used for assignment in C++?
+2 =
+2 Which data type is used to store a single character in C++?
+2 char
+
+3 What is the keyword used to create a constant variable in C++?
+3 const
+3 Which function is used to read input from the console in C++?
+3 cin
+
+4 Which operator is used to access members of a structure in C++?
+4 .
+4 What is the keyword used to define a function in C++?
+4 void
+
+5 What is the output of the following code? cout << 5 + 3;
+5 8
+5 Which operator is used for logical AND in C++?
+5 &&

@@ -1,0 +1,70 @@
+2
+What is an IDE?
+An Integrated Development Environment
+A type of variable
+An operating system
+A debugging tool
+1
+2
+What is the purpose of the return statement in a function?
+To end a loop
+To end the program
+To exit the function and return a value
+To declare a variable
+3
+2
+Which keyword is used to declare a constant in C++?
+var
+const
+let
+final
+2
+2
+What does the term 'debugging' refer to?
+Writing code
+Running code
+Finding and fixing errors in code
+Compiling code
+3
+2
+Which data type is used to store decimal numbers in C++?
+int
+float
+char
+bool
+2
+2
+What is the output of 5 + 2 * 3?
+21
+15
+11
+13
+3
+2
+Which of the following is a valid variable name in C++?
+2variable
+variable_name
+variable-name
+variable name
+2
+2
+What does 'OOP' stand for in programming?
+Operational Object Programming
+Object-Oriented Programming
+Optimal Object Programming
+Object-Oriented Protocol
+2
+2
+Which keyword is used to create an object in C++?
+new
+create
+object
+init
+1
+2
+What is encapsulation in OOP?
+Hiding the internal state and requiring all interaction to be performed through an object's methods
+Using multiple classes to represent different entities
+Defining multiple methods with the same name
+Inheriting properties from one class to another
+1

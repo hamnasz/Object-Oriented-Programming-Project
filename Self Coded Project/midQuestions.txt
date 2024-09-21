@@ -1,0 +1,77 @@
+2
+what is programming fundamental?
+principles related to coding
+principles related to physics
+principles related to chemistry
+principles related to biology
+1
+2
+What is a variable?
+A named storage location in memory
+A constant value in a program
+A function parameter
+An operator in a program
+1
+2
+What does a compiler do?
+Translates code into machine language
+Executes code line by line
+Tests code for errors
+Runs code on the server
+1
+2
+Which of the following is a loop structure in programming?
+if
+else
+for
+switch
+3
+2
+What is an array?
+A single value in memory
+A function that returns multiple values
+A collection of elements of the same type
+A collection of functions
+3
+2
+Which symbol is used for comments in C++?
+//
+##
+--
+@@
+1
+2
+What is a function in programming?
+A sequence of instructions that performs a specific task
+A storage location for data
+An error in a program
+A type of variable
+1
+2
+What is the purpose of an algorithm?
+To define a variable
+To specify the output of a program
+To provide step-by-step instructions for solving a problem
+To execute a program
+3
+2
+Which of the following is a conditional statement?
+int
+float
+if
+return
+3
+2
+What is the purpose of debugging?
+To write code
+To find and fix errors in a program
+To compile code
+To execute a program
+2
+2
+What is a syntax error?
+An error due to incorrect logic in the program
+An error due to the incorrect use of programming language rules
+An error that occurs during program execution
+An error that occurs due to incorrect input
+2
